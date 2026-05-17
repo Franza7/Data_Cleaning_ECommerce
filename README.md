@@ -20,7 +20,7 @@ identify and correct data quality issues.
 | Category | Total Sales |
 |---|---|
 | Books | $40,073 |
-| Electronics | $22,251 |
+| Electronics | $23,662 |
 | Sports | $21,439 |
 | Home | $27,002 |
 | Clothing | $33,458 |
