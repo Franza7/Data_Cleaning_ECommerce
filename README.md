@@ -1,10 +1,10 @@
-# 🛒 E-Commerce Data Cleaning Proyect
+# 🛒 E-Commerce Data Cleaning Project
 
 ## Project Overview
 Data cleaning and organization of 103 e-commerce records to
 identify and correct data quality issues.
 
-## Poblems Found & Fixed
+## Problems Found & Fixed
 - 23 total errors identified
 - 21 errors corrected
 - 2 records flagged as insufficient data
